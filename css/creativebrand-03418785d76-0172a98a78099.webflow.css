@@ -1307,7 +1307,7 @@
 
 .hero-split {
   z-index: auto;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  /* background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg'); */
   background-position: 0 0;
   background-size: auto;
   flex-direction: column;
@@ -2327,7 +2327,7 @@
 }
 
 .image-card {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  /* background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg'); */
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3323,14 +3323,14 @@
 }
 
 .main-product-photo {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  /* background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg'); */
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .second-photo, .third-product-photo, .fourth-product-photo {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  /* background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg'); */
   background-position: 50% 100%;
   background-size: cover;
 }
