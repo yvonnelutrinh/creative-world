@@ -2011,6 +2011,7 @@
 
 .footer-link-block {
   color: #000;
+  text-decoration: underline !important;
 }
 
 .error-message {
@@ -2729,6 +2730,7 @@
   min-height: 36px;
   font-size: 12px;
   display: grid;
+  text-decoration: none;
 }
 
 .nav-right {
