@@ -1409,7 +1409,7 @@
 }
 
 .product-image-3 {
-  background-image: url('../../images/red-hat-portrait-2.jpg');
+  background-image: url('../images/red-hat-portrait-2.jpg');
   background-position: 50%;
   background-size: cover;
   border-style: solid;
@@ -1420,7 +1420,7 @@
 }
 
 .product-image-4 {
-  background-image: url('../../images/all-hats-portrait.jpg');
+  background-image: url('../images/all-hats-portrait.jpg');
   background-position: 50%;
   background-size: cover;
   border-style: solid;
@@ -1434,7 +1434,7 @@
 }
 
 .hat-colour {
-  background-image: url('../../images/red-cap.png');
+  background-image: url('../images/red-cap.png');
   background-position: 50%;
   background-size: cover;
   border: 1px solid #0000;
@@ -1450,18 +1450,18 @@
 }
 
 .hat-colour.black {
-  background-image: url('../../images/black-cap.png');
+  background-image: url('../images/black-cap.png');
   background-position: 50%;
   background-repeat: repeat;
   background-size: cover;
 }
 
 .hat-colour.orange {
-  background-image: url('../../images/orange-cap.png');
+  background-image: url('../images/orange-cap.png');
 }
 
 .hat-colour.green {
-  background-image: url('../../images/green-cap.png');
+  background-image: url('../images/green-cap.png');
 }
 
 .column {
@@ -1825,7 +1825,7 @@
 }
 
 .card {
-  background-image: url('../../images/black-cap-standing.jpg');
+  background-image: url('../images/black-cap-standing.jpg');
   background-position: 50%;
   background-size: cover;
   border-radius: 10px;
@@ -1838,11 +1838,11 @@
 }
 
 .card.bottom {
-  background-image: url('../../images/black-cap-profile.jpg');
+  background-image: url('../images/black-cap-profile.jpg');
 }
 
 .card.top {
-  background-image: url('../../images/black-cap-silhouette.jpg');
+  background-image: url('../images/black-cap-silhouette.jpg');
   transform: none;
 }
 
@@ -1971,7 +1971,7 @@
 
 .person {
   z-index: 2;
-  background-image: url('../../images/dwayne-holness.png');
+  background-image: url('../images/dwayne-holness.png');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto 100%;
@@ -2170,7 +2170,7 @@
 }
 
 .instagram-background {
-  background-image: url('../../images/Image003.jpeg');
+  background-image: url('../images/Image003.jpeg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2179,19 +2179,19 @@
 }
 
 .instagram-background.one {
-  background-image: url('../../images/creativeworldwav-1.jpg');
+  background-image: url('../images/creativeworldwav-1.jpg');
 }
 
 .instagram-background.four {
-  background-image: url('../../images/creativeworldwav-4.jpg');
+  background-image: url('../images/creativeworldwav-4.jpg');
 }
 
 .instagram-background.three {
-  background-image: url('../../images/creativeworldwav-3.jpg');
+  background-image: url('../images/creativeworldwav-3.jpg');
 }
 
 .instagram-background.two {
-  background-image: url('../../images/creativeworldwav-2.jpg');
+  background-image: url('../images/creativeworldwav-2.jpg');
 }
 
 .button-text-wrapper {
@@ -2528,7 +2528,7 @@
 }
 
 .hero-photo {
-  background-image: url('../../images/red-hat-portrait-colour.jpg');
+  background-image: url('../images/red-hat-portrait-colour.jpg');
   background-position: 50% 20%;
   background-size: cover;
   height: 80vh;
@@ -2536,14 +2536,14 @@
 }
 
 .hero-photo.first {
-  background-image: url('../../images/creative-cap-black.jpg');
+  background-image: url('../images/creative-cap-black.jpg');
   background-position: 50% 20%;
   height: 70vh;
   max-height: 50%;
 }
 
 .hero-photo.second {
-  background-image: url('../../images/black-cap-silhouette.jpg');
+  background-image: url('../images/black-cap-silhouette.jpg');
   background-position: 50% 25%;
   height: 70vh;
   max-height: 50%;
@@ -3521,7 +3521,7 @@
   }
 
   .instagram-background.three {
-    background-image: url('../../images/creativeworldwav-3.jpg');
+    background-image: url('../images/creativeworldwav-3.jpg');
   }
 
   .slider-arrow-wrapper {
@@ -3573,7 +3573,7 @@
   }
 
   .hero-photo.first {
-    background-image: url('../../images/creative-cap-black.jpg');
+    background-image: url('../images/creative-cap-black.jpg');
     background-position: 50% 20%;
   }
 
@@ -4032,7 +4032,7 @@
 
   .search-button {
     background-color: #e4e9ec;
-    background-image: url('../../images/search-dark-small24x242x-1.svg');
+    background-image: url('../images/search-dark-small24x242x-1.svg');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: 14px;
@@ -4085,15 +4085,15 @@
   }
 
   .second-photo {
-    background-image: url('../../images/red-hat-product-colour.jpg');
+    background-image: url('../images/red-hat-product-colour.jpg');
   }
 
   .third-product-photo {
-    background-image: url('../../images/red-hat-portrait-2.jpg');
+    background-image: url('../images/red-hat-portrait-2.jpg');
   }
 
   .fourth-product-photo {
-    background-image: url('../../images/all-hats-portrait.jpg');
+    background-image: url('../images/all-hats-portrait.jpg');
   }
 
   .arrow {
